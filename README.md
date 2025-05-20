@@ -1,9 +1,7 @@
 # PIM-1
-## Documentação do Sistema de Análise de Dados de Usuários (Console Python)
+## Documentação do Sistema de Análise de Dados de Usuários  
 
-**1. Introdução**
-
-Este documento descreve o Sistema de Análise de Dados de Usuários, uma aplicação de console desenvolvida em Python. O sistema permite o armazenamento de informações de usuários em um arquivo Excel e a realização de análises estatísticas fundamentais (média, moda e mediana) sobre esses dados. O objetivo principal é fornecer uma ferramenta simples para coletar, persistir e obter insights básicos a partir de dados de usuários.
+ 
 
 **2. Visão Geral do Sistema**
 
